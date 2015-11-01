@@ -4,10 +4,10 @@ cd %cd%
 
 set dbServer=.
 set dbAcount=sa
-set dbPass=123
+set dbPass=
 set gameuser=game_user
 set gamepass=123
-set dbpath=%cd%\Data
+set dbpath=E:\huangchenjun\Sql2008\ContractToolsTest\Data
 
 
 @echo 配置参数如下：
